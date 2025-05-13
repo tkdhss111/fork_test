@@ -3,6 +3,8 @@ Test repository for collaboration
 
 ## 共同編集者
 
+渡邉葵衣
+
 1．竹田 恒  
 1.0.上村瞬間
 2. 西川凌矢
